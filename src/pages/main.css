@@ -1,0 +1,54 @@
+nav{
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    font-size: 50px;
+    background-color: red;
+}
+
+header{
+    width: 100%;
+    padding: 100px;
+    background-color: lightgrey;
+    font-size: 35px;
+    text-align: center;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    margin-top: 15px;
+}
+
+.col-3{
+    width: 25%;
+    padding: 0 15px;
+}
+
+.col-6{
+    width: 50%;
+    padding: 0 15px;
+}
+
+.profile{
+    width: 100%;
+    background-color: lightpink;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.suggestion{
+    width: 100%;
+    background-color: lightgreen;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
